@@ -1,5 +1,5 @@
 # IECBXVI
-// Site Católico Bonito e Pronto para Publicação
+// Site Católico
 
 
 import React, { useState } from "react";
